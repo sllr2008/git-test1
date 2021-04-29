@@ -18,5 +18,6 @@ public class Test {
         System.out.println("push git2");
         System.out.println("push git3");
         System.out.println("push git-ssh");
+        System.out.println("pull git-ssh");
     }
 }
